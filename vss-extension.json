@@ -4,12 +4,12 @@
   "version": "0.2.19",
   "name": "Publish HTML Artifact",
   "description": "Display any HTML artifact in VSTS or TFS",
-  "publisher": "johnwalley",
+  "publisher": "MerlinLiang",
   "icons": {
     "default": "images/logo.png"
   },
   "categories": [
-    "Build and release"
+    "Azure Pipelines"
   ],
   "tags": [
     "HTML",
